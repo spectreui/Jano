@@ -88,6 +88,7 @@ const DynamicBlogDetails = () => {
                       />
                     )}
                     <div dangerouslySetInnerHTML={{ __html: blog.data}}></div>
+                    
                     <div className="bottom-widget d-sm-flex align-items-center justify-content-between">
                       <Tag />
                       <SocialShare />
