@@ -7,6 +7,7 @@ module.exports = [
     delay: "100",
     data: "<p>Hello anas bitch nigga</p>"
   },
+  
   {
     id: 2,
     imageSrc: "/images/blog/blog_img_09.jpg",
