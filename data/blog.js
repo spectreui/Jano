@@ -17,3 +17,10 @@ module.exports = [
     data: "<p>Hello anas fukin</p>"
   },
 ];
+
+
+
+const add = () => {
+  return "fk omar bitch nigga"
+  };
+  console.log(add());
